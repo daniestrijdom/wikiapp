@@ -12,6 +12,8 @@ Getting Started
 
 - $VENV/bin/pserve development.ini --reload
 
+If serving on your local machine, navigate to localhost:6543 in your browser.
+
 Example
 -------
 
