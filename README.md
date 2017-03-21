@@ -10,3 +10,4 @@ Getting Started
 
 - $VENV/bin/pserve development.ini
 
+![alt tag](https://raw.githubusercontent.com/daniestrijdom/wikiapp/example.png)
