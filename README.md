@@ -19,6 +19,6 @@ Example
 - Click 'Submit' or press Enter
 - After seeing your result, click on 'Reset' to go back to initial state or search again.
 
-Example ouput
+Example output
 
 ![alt tag](https://github.com/daniestrijdom/wikiapp/blob/master/example.PNG)
